@@ -1,0 +1,5 @@
+Burp Suite
+OWASP ZAP
+SQLMap
+Kali Linux
+Firefox Developer Tools
