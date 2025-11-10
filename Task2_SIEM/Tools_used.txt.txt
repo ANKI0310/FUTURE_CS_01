@@ -1,0 +1,16 @@
+Tools Used:
+
+1. Splunk (Free Trial) / Elastic Stack (ELK)
+   - Used for log ingestion, filtering, search queries, and dashboard analysis.
+
+2. Sample SOC Log Data (SOC_Task2_Sample_Logs)
+   - Provided for analyzing authentication events, IP connections, and malware alerts.
+
+3. Windows / Linux System Logs
+   - Reference logs for system activity and event monitoring.
+
+4. Git & GitHub
+   - Version control and project repo management.
+
+5. Microsoft Word / Google Docs
+   - Used for preparing the Incident Response Report.
