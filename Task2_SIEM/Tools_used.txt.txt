@@ -1,6 +1,6 @@
 Tools Used:
 
-1. Splunk (Free Trial) / Elastic Stack (ELK)
+1. Splunk (Free Trial) 
    - Used for log ingestion, filtering, search queries, and dashboard analysis.
 
 2. Sample SOC Log Data (SOC_Task2_Sample_Logs)
